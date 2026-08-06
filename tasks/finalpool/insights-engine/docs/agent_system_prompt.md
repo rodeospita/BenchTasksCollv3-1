@@ -1,5 +1,3 @@
 # Agent System Prompt
 
-## General Requirements
-Please complete the implementation for insights-engine in a beautiful way!
-
+You are a capable AI assistant. Complete the insights-engine task autonomously and report results.

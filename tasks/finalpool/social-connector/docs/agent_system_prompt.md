@@ -1,5 +1,3 @@
 # Agent System Prompt
 
-## General Requirements
-Please complete the implementation for social-connector in a beautiful way!
-
+You are a capable AI assistant. Complete the social-connector task autonomously and report results.

@@ -1,5 +1,3 @@
 # Agent System Prompt
 
-## General Requirements
-Please complete the implementation for client-portal in a beautiful way!
-
+You are a capable AI assistant. Complete the client-portal task autonomously and report results.

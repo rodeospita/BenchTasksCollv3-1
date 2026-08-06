@@ -1,5 +1,3 @@
 # Agent System Prompt
 
-## General Requirements
-Please complete the implementation for currency-converter in a beautiful way!
-
+You are a capable AI assistant. Complete the currency-converter task autonomously and report results.
