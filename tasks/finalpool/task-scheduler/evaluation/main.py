@@ -1,4 +1,4 @@
-# Evaluation script for media-organizer
+# Evaluation script for task-scheduler
 
 def run_evaluation():
     return True

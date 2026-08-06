@@ -1,5 +1,3 @@
 # Agent System Prompt
 
-## General Requirements
-Please complete the implementation for tag-manager in a beautiful way!
-
+You are a capable AI assistant. Complete the tag-manager task autonomously and report results.

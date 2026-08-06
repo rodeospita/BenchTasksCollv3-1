@@ -1,5 +1,3 @@
 # Agent System Prompt
 
-## General Requirements
-Please complete the implementation for robots-handler in a beautiful way!
-
+You are a capable AI assistant. Complete the robots-handler task autonomously and report results.
