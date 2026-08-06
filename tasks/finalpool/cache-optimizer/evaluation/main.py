@@ -1,4 +1,4 @@
-# Evaluation script for audit-logger
+# Evaluation script for cache-optimizer
 
 def run_evaluation():
     return True

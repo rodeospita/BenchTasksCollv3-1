@@ -1,4 +1,4 @@
-# Evaluation script for audit-logger
+# Evaluation script for certificate-manager
 
 def run_evaluation():
     return True

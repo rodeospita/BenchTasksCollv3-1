@@ -1,5 +1,3 @@
 # Agent System Prompt
 
-## General Requirements
-Please complete the implementation for audit-logger in a beautiful way!
-
+You are a capable AI assistant. Complete the audit-logger task autonomously and report results.
